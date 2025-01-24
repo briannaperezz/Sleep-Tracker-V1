@@ -46,7 +46,7 @@ function addEntryToLog(date, hours){
     row.appendChild(hoursCell)
 
     tableBody.appendChild(row)
-
+// comment
     
     
 }
